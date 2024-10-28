@@ -1,4 +1,8 @@
-/__pycache__
-/Manual_Dataset
-/dist
-.knn_model.xml
+
+*
+!.gitignore
+!main.py
+!train.py
+!knn_model.xml
+!New_Data
+!icon.png
